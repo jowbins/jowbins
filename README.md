@@ -1,6 +1,6 @@
 # <div align="center">Salve galerinha! Eu sou o Jowbins. :ghost: </div>
 
-- 💻 Trabalho com informática para crianças em uma escola
+- 💻 Trabalho com informática para crianças na area da educação
 - 👨‍🎓 Estudando TI 
 - :no_good: Aprendendo a programar
 - 🎮 Criador de conteudo Gamer
