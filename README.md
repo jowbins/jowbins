@@ -4,9 +4,8 @@
 - 💻 Hoje trabalho dando aula de informática para crianças e jovens em uma escola
 - 👨‍🎓 Estudando TI 
 - 🤓 Aprendendo a programar
-- 🍔 Ansioso para a hora do lanche
 - 🎮 Criador de conteudo Gamer
-- 🎈 Fato engraçado: Gameplay de nível DUVIDOSO
+- 🎈 Fato engraçado: Ansioso para a hora do lanche 🍔
 
 <div>
   <a href="https://linktr.ee/jowbins">
