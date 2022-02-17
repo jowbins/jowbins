@@ -1,4 +1,4 @@
-### Salve galerinha! Eu sou o Jowbins. 👋
+# <div align="center">Salve galerinha! Eu sou o Jowbins. 👋</div>
 
 - 💻 Trabalho com informática para crianças em uma escola
 - 👨‍🎓 Estudando TI 
@@ -12,7 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowbins&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+
+  ## Aprendendo ...
+<br>
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +26,7 @@
   <img align="right" alt="jowbins-gif" src="https://media.discordapp.net/attachments/938245863451553833/943692388939993098/dc7810b3-d645-4fd0-aec8-9f75e879a78b_1.gif">
 </div>
 
-  ##
+  ## Mídias sociais
   
   <div>
   <a href="https://www.youtube.com/c/jowbins" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
