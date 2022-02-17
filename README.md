@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://linktr.ee/jowbins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jowbins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowbins&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jowbins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowbins&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block"><br>
