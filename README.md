@@ -1,7 +1,7 @@
 ### Salve galerinha! Eu sou o Jowbins. 👋
 
 
-- 💻 Hoje trabalho dando aula de informática para crianças e jovens em uma escola
+- 💻 Trabalho com informática para crianças em uma escola
 - 👨‍🎓 Estudando TI 
 - 🤓 Aprendendo a programar
 - 🎮 Criador de conteudo Gamer
