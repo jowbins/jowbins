@@ -9,7 +9,7 @@
 <div>
   <a href="https://linktr.ee/jowbins">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=jowbins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="15em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowbins&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowbins&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 
