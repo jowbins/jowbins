@@ -1,4 +1,4 @@
-# <div align="center">Salve galerinha! Eu sou o Jowbins. 👋</div>
+# <div align="center">Salve galerinha! Eu sou o Jowbins. :ghost: </div>
 
 - 💻 Trabalho com informática para crianças em uma escola
 - 👨‍🎓 Estudando TI 
