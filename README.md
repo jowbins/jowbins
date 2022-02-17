@@ -1,8 +1,12 @@
 ### Salve galerinha! Eu sou o Jowbins. 👋
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript 
+- 💻 Hoje trabalho dando aula de informática para crianças e jovens em uma escola
+- 👨‍🎓 Estudando TI 
+- 🤓 Aprendendo a programar
+- 🍔 Ansioso para a hora do lanche
+- 🎮 Criador de conteudo Gamer
+- 🎈 Fato engraçado: Gameplay de nível DUVIDOSO
 
 <div>
   <a href="https://linktr.ee/jowbins">
