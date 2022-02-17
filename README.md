@@ -15,5 +15,5 @@
   <img align="center" alt="jowbins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jowbins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="jowbins-gif" src="https://media.discordapp.net/attachments/938245863451553833/943687911377866792/solta_o_som_DJ_-75.gif">
+  <img align="right" alt="jowbins-gif" src="https://media.discordapp.net/attachments/938245863451553833/943689147586064384/7f59355d-d383-4fa3-9281-ba7bdaaacc59_4.gif">
 </div>
