@@ -23,7 +23,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
   
-  <img align="right" alt="jowbins-gif" src="https://media.discordapp.net/attachments/938245863451553833/943692388939993098/dc7810b3-d645-4fd0-aec8-9f75e879a78b_1.gif">
+  <img align="right" alt="jowbins-gif" src="https://media.discordapp.net/attachments/938245863451553833/943964734728835153/aaaasssss-unscreen.gif">
 </div>
 
   ## :dart: Mídias sociais
