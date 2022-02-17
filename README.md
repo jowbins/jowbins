@@ -1,6 +1,5 @@
 ### Salve galerinha! Eu sou o Jowbins. 👋
 
-
 - 💻 Trabalho com informática para crianças em uma escola
 - 👨‍🎓 Estudando TI 
 - 🤓 Aprendendo a programar
