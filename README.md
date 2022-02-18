@@ -41,7 +41,7 @@
 
 <p align="center"> 
 
- ## :detective: Total de visitas no meu perfil :detective: <br>
+ ## :detective: Total de visitas no meu perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jowbins/count.svg" />
  </p>
