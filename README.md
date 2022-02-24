@@ -1,4 +1,4 @@
-<img max-width="100%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/946530846280675408/Seja_bem-vindo.png"></a>
+<img max-width="100%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/946530846280675408/Seja_bem-vindo.png?width=979&height=390"></a>
 
 # <div align="center">Salve galerinha! Eu sou o Jowbins. :ghost: </div>
 
