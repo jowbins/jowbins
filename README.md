@@ -1,11 +1,11 @@
-<img max-width="100%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/946530846280675408/Seja_bem-vindo.png?width=979&height=390"></a>
+<img max-width="100%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/948712720830697542/jowbins.png?width=996&height=272"></a>
 
-# <div align="center">Salve galerinha! Eu sou o Jowbins. :ghost: </div>
+# <div align="center">Salve galerinha! Eu sou Joubert também conhecido como Jowbins. </div>
 
 <div>
   <p>
-<div align="center"> - 👨‍🎓 Estudando TI </div>
   <div align="center"> - :no_good: Aprendendo a programar </div>
+<div align="center"> - 👨‍🎓 Estudando TI na Epsa. (2/3) </div>
   <div align="center"> - 🎮 Criador de conteudo Gamer </div>
 <div align="center"> - 🎈 Fato engraçado: Ansioso para a hora do lanche 🍔 </div>
 <div align="center"> - 💻 Trabalho com informática para crianças na area da educação </div>
