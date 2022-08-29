@@ -1,4 +1,4 @@
-<img max-width="100%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/948712720830697542/jowbins.png?width=996&height=272"></a>
+<img max-width="150%" align="center" alt="Seja_bem-vindo" src="https://media.discordapp.net/attachments/938245863451553833/1013847488819626044/jobim_git.gif?width=885&height=337"></a>
 
 # <div align="center">Hello world! Eu sou Joubert, também conhecido como Jowbins. </div>
 
