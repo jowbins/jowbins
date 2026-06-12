@@ -54,7 +54,7 @@
     </div>
 
     
-  ![Snake animation](https://github.com/jowbins/jowbins/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <p align="center"> 
