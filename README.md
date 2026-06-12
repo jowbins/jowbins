@@ -63,5 +63,10 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jowbins/count.svg" />
  </p>
-![](https://komarev.com/ghpvc/?username=jowbins-github-username&abbreviated=true)
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/jowbins/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
+
 </p>
