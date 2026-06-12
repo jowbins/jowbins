@@ -56,8 +56,6 @@
 
 </div>
 
-![snake animation](https://github.com/jowbins/jowbins/blob/output/github-contribution-grid-snake2.svg)
-
 <p align="center">  :detective: Total de visitas no meu perfil <br>
 
 ![](https://komarev.com/ghpvc/?username=jowbins&base=327)
