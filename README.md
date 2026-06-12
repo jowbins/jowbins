@@ -5,7 +5,7 @@
 
 <div>
   <p>
-    <div align="center"> - 👨‍🎓 Estudando TI na Epsa. </div>
+    <div align="center"> - 👨‍🎓 Estudante de TI </div>
   <div align="center"> - :no_good: Aprendendo a programar. </div>
   <div align="center"> - 🎮 Criador de conteudo Gamer. </div>
 <div align="center"> - 🎈 Fato engraçado: Ansioso para a hora do lanche. 🍔 </div>
@@ -63,5 +63,5 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jowbins/count.svg" />
  </p>
-
+![](https://komarev.com/ghpvc/?username=jowbins-github-username&abbreviated=true)
 </p>
