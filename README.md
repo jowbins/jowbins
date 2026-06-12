@@ -56,7 +56,7 @@
 
 </div>
 
-  ![snake animation](https://github.com/jowbins/jowbins/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/jowbins/jowbins/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">  :detective: Total de visitas no meu perfil <br>
 
