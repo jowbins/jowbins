@@ -60,9 +60,6 @@
 <p align="center"> 
 
  ## :detective: Total de visitas no meu perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/jowbins/count.svg" />
- </p>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/jowbins/github-profile-views-counter
