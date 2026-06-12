@@ -53,14 +53,13 @@
   <a href = "joubert.bim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
 
-![snake animation](https://github.com/<seu jowbins>/<seu jowbins>/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
-
+<p>
+  ![snake animation](https://github.com/<jowbins>/<jowbins>/blob/output/github-contribution-grid-snake2.svg)
+</p>
 <p align="center"> 
-
  ## :detective: Total de visitas no meu perfil <br>
 
 ![](https://komarev.com/ghpvc/?username=jowbins&base=327)
-
 </p>
