@@ -61,6 +61,6 @@
 
  ## :detective: Total de visitas no meu perfil <br>
 
-![](https://komarev.com/ghpvc/?username=jowbins)
+![](https://komarev.com/ghpvc/?username=jowbins&base=327)
 
 </p>
