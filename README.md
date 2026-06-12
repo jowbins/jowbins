@@ -61,9 +61,6 @@
 
  ## :detective: Total de visitas no meu perfil <br>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/jowbins/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?account_id=99450287)
+![](https://komarev.com/ghpvc/?username=jowbins)
 
 </p>
