@@ -57,6 +57,10 @@
 </div>
 
 <p align="center">  :detective: Total de visitas no meu perfil <br>
-
+  
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=jowbins&base=327)
 </p>
+
+</div>
