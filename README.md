@@ -6,7 +6,7 @@
 <div>
   <p>
     <div align="center"> - 👨‍🎓 Estudante de TI </div>
-  <div align="center"> - :no_good: Aprendendo a programar. </div>
+  <div align="center"> - :no_good:  Amante da programação. </div>
   <div align="center"> - 🎮 Criador de conteudo Gamer. </div>
 <div align="center"> - 🎈 Fato engraçado: Ansioso para a hora do lanche. 🍔 </div>
 <div align="center"> - 💻 Trabalho com informática para crianças na area da educação. </div>
